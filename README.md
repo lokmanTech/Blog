@@ -1,4 +1,4 @@
-# 08 Blog
+# 12 Blog
 Welcome to the Data-Driven Web Development Blog repository! Here, I'm combining my passion for web development with my fascination for data analytics and visualization. Aspiring to become a data-driven web developer, I'm dedicated to exploring the synergy between crafting interactive web experiences and deriving insights from the data they generate.
 
 In this repository, you'll find a collection of articles, code samples, and projects that showcase my journey as I bridge the gap between cutting-edge web development and data-driven decision-making. From crafting responsive user interfaces to implementing data collection mechanisms, I'm committed to creating web applications that not only engage users but also empower businesses with actionable insights.
@@ -12,12 +12,12 @@ Key Focus Areas:
 
 
 ### Contact Me
-Feel free to connect with me or reach out for collaborations:
+Feel free to reach out to me on:
 
 - [LinkedIn](https://www.linkedin.com/in/lhakimnazri/)
-- Email: [lhakim.nazri@gmail.com](lhakim.nazri@gmail.com)
+- [Whatsapp](https://wa.me/+60102115249)
+- email at lhakim.nazri@gmail.com
 
-Connect with me and stay updated on my progress. Contributions, feedback, and discussions are warmly welcomed as we embark on this data-driven web development adventure together.
-Let's code, visualize, and innovate!
+Happy coding and analyzing!
 
-#### Lokman Hakim
+## Lokman Hakim
