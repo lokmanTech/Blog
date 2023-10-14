@@ -10,14 +10,7 @@ Key Focus Areas:
 * Interactive Visualizations: Experience the intersection of creativity and analytics as I demonstrate the creation of dynamic and informative data visualizations that bring numbers to life.
 * Case Studies: Explore real-world case studies where I demonstrate how data-driven insights have influenced decision-making and enhanced user experiences.
 
+<h2 align="center">Lokman Hakim - Tech Enthusiast and Explorer</h2>
+<p align="center">Greetings! I'm currently in the process of transitioning from a background in Project Architecture and Design to exploring the exciting realm of Data Science. This journey has opened up a world of intriguing possibilities, and I'm enthusiastic about connecting with individuals who share a similar passion for data, Python, and the limitless opportunities they offer. If you're interested in discussing the captivating field of data science, I'd love to connect and engage in a meaningful conversation.</p>
 
-### Contact Me
-Feel free to reach out to me on:
-
-- [LinkedIn](https://www.linkedin.com/in/lhakimnazri/)
-- [Whatsapp](https://wa.me/+60102115249)
-- email at lhakim.nazri@gmail.com
-
-Happy coding and analyzing!
-
-## Lokman Hakim
+[![Lokman Hakim Portfolio](https://lokmantech.github.io/img/footer/Footer.png)](https://lokmantech.github.io)
